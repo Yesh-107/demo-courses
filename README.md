@@ -1,2 +1,3 @@
 # demo-courses
-Practice code from the enrolled courses
+Practice code from the courses enrolled. Edit 2 
+
